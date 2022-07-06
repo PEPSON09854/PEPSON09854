@@ -1,6 +1,6 @@
 ## Salve! Eu sou o Pepson Andesron ✌️
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/pepson-silva-analista-de-sistemas)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pepson-silva-analista-de-sistemas)
 
 ![Pepson Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=pepson09854&show_icons=true&theme=codeSTACKr)
 
