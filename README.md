@@ -4,7 +4,7 @@
 
 ![Pepson Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=pepson09854&show_icons=true&theme=codeSTACKr)
 
-## Tecnologias 🎓🎓🎓🎓🎓🎓🎓🎓🎓
+## Tecnologias 🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓
 
 <div style='display: inline-block'>
   <img aling='center' alt= 'HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
@@ -15,6 +15,7 @@
   <img aling='center' alt= 'REACT' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
   <img aling='center' alt= 'ANGULAR' src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
   <img aling='center' alt= 'JAVA' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
+  <img aling='center' alt= 'SPRING' src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white'/>
   <img aling='center' alt= 'MYSQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
 </div><br>
 
