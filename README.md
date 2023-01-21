@@ -1,6 +1,6 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pepson-silva-analista-de-sistemas)
 
-## Salve! Eu sou o Pepson Anderson ✌️ 
+## Salve ✌️ 
 
 <img style='width:100%; height: 300px' src='https://github-readme-stats.vercel.app/api?username=pepson09854&show_icons=true&theme=codeSTACKr'/> 
 
