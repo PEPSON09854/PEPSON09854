@@ -20,7 +20,7 @@
 </div><br>
 
 <div>
-    <img style='width: 100%; height: 300em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=pepson09854&theme=blue-green'/>
+    <img style='width: 100%; height: 600px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=pepson09854&theme=blue-green'/>
 </div>  
   
 <h2 style='margin: 0 100px'>Eu acredito que: "A essência do saber está na busca incansável pelo conhecimento".</h2>
