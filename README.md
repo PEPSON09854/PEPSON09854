@@ -19,8 +19,8 @@
   <img aling='center' alt= 'MYSQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
 </div><br>
 
-<div style='width 100%; height: 200px; bacgroundColor: #223344;'>
-    <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=pepson09854&theme=blue-green'/>
+<div style='width: 100%; height: 200px;'>
+    <img style='width: 100%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=pepson09854&theme=blue-green'/>
 </div>  
   
 ### Eu acredito que: "A essência do saber está na busca incansável pelo conhecimento." 
