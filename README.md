@@ -2,7 +2,7 @@
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pepson-silva-analista-de-sistemas)
 
-![Pepson Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=pepson09854&show_icons=true&theme=codeSTACKr) 
+![Pepson Anderson GitHub stats]<img style='width:100%; height: 300px' src='https://github-readme-stats.vercel.app/api?username=pepson09854&show_icons=true&theme=codeSTACKr'/> 
 
 ## Tecnologias 🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓
 
@@ -20,7 +20,7 @@
 </div><br>
 
 <div>
-    <img style='width: 100% height: 300px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=pepson09854&theme=blue-green'/>
+    <img style='width: 100%; height: 300px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=pepson09854&theme=blue-green'/>
 </div>  
   
 ### Eu acredito que: "A essência do saber está na busca incansável pelo conhecimento." 
