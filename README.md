@@ -2,7 +2,7 @@
 
 ## Salve ✌️ 
 
-<img style='width:100%; height: 300px' src='https://github-readme-stats.vercel.app/api?username=pepson09854&show_icons=true&theme=codeSTACKr'/> 
+<img style='width:100%' src='https://github-readme-stats.vercel.app/api?username=pepson09854&show_icons=true&theme=codeSTACKr'/> 
 
 ## Tecnologias 🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓
 
